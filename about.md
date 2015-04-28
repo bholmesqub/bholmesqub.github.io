@@ -2,14 +2,15 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
-
-Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Hi! My name is Ben Holmes, and am currently a research student at Queen's University Belfast. The focus of the research is **nonlinear circuit emulation with a real-time audio focus**.
+
+This website hosts project pages for my academic code and research tools. This will mainly be MATLAB code, but will hopefully develop to some finished programmes in C++. I aim to release all of my research code for properly open research.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[bholmes02@qub.ac.uk](mailto:bholmes02@qub.ac.uk)
