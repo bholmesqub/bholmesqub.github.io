@@ -1,9 +1,7 @@
 ---
-layout: page
-title: About
-permalink: /about/
-published: true
+layout: default
 ---
+
 Hi! My name is Ben Holmes and I am a PhD student based in the Sonic Arts Research Centre (but a part of the School of Electronics, Electrical Engineering and Computer Science) at Queen's University Belfast. The topic of my PhD is **nonlinear circuit emulation with a real-time audio focus**.
 
 <figure>
