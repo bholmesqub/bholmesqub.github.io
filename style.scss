@@ -245,7 +245,7 @@ img[alt=Pedals]{
   display:block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 70%;
 }
 
 img[alt=Me]{
@@ -253,7 +253,7 @@ img[alt=Me]{
   //margin-left: auto;
   //margin-right: auto;
   float:left;
-  width:23%;
+  width:35%;
   padding-right:15px;
   padding-bottom:15px;
 }
@@ -267,7 +267,7 @@ div[id=project-box]{
   text-align: center;
   a{
     color:black;
-  }  
+  }
 }
 div[id=project-box-last]{
   width:90%;
@@ -275,6 +275,9 @@ div[id=project-box-last]{
   a{
     color:black;
   }
+}
+div[id=card]{
+  float: left;
 }
 
 

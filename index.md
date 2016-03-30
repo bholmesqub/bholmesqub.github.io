@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<div id="card" class="container" markdown="1">
 ![Me](/images/me.jpg)
 
 **Name:** Ben Holmes
@@ -10,8 +11,8 @@ layout: default
 
 **Position:** PhD Student
 
-**Email:** [**bholmes02@qub.ac.uk**](mailto:bholmes02@qub.ac.uk)
-
+**Email:** [bholmes02@qub.ac.uk](mailto:bholmes02@qub.ac.uk)
+</div>
 
 ### About Me
 
