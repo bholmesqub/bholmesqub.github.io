@@ -2,24 +2,20 @@
 layout: default
 ---
 
-<div id="card" class="container" markdown="1">
-![Me](/images/me.jpg)
+<div id="project-box" class="container" markdown="1">
+[![DAFx15](/images/dafx15.png)](/DAFx15/)
 
-**Name:** Ben Holmes
-
-**Institution:** Queen's University Belfast
-
-**Position:** PhD Student
-
-**Email:** [bholmes02@qub.ac.uk](mailto:bholmes02@qub.ac.uk)
+[Companion material for "Improving the robustness of the iterative solver in state-space modelling of guitar distortion circuitry"](/DAFx15/)
 </div>
 
-### About Me
+<div id="project-box" class="container" markdown="1">
+[![DAFx16](/images/dafx16.png)](/DAFx16/)
 
-My name is Ben Holmes and I am a PhD student at the Sonic Arts Research Centre at Queen's University Belfast. I began my PhD in 2014, previously completing my undergraduate degree at the University of York.  
+[Companion material for "Physical model parameter optimisation for calibrated emulation of the Dallas Rangemaster Treble Booster"](/DAFx16/)
+</div>
 
-### Research Interests
+<div id="project-box-last" class="container" markdown="1">
+[![DAFx16](/images/dafx17.jpg)](/DAFx17/)
 
-The focus of my PhD is on the **modelling of nonlinear audio effects**. This primarily involves circuit modelling, real-time algorithm implementation, and also the measurement and analysis of audio effects. Vintage audio effects present a highly interesting set of problems, with a significant amount of my research so far having been on the Dallas Rangemaster Treble Booster pedal. There are many more cases I'm hoping to study as well:
-
-![Pedals](/images/dist-pedals.jpg)
+[Companion material for "Comparison of Germanium Bipolar Junction Transistor Models for Real-Time Circuit Simulation"](/DAFx17/)
+</div>
