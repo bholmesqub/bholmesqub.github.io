@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div id="project-box" class="container" markdown="1">
-[![Thesis](/images/rangemaster-measurement-242px.jpg)](/thesis/)
+[![Thesis](/images/thesis.png)](/thesis/)
 
 [Companion material for thesis entitled: "Guitar Effects-Pedal Emulation and Identification"](/DAFx17/)
 </div>
